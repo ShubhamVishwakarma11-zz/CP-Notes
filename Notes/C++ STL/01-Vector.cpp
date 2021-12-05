@@ -119,7 +119,7 @@ int main (void)
 	*/
 
 
-	v.clear();        // erases all the elements at once
+	v.clear();         // erases all the elements at once
 
 
 	// If you want to directly declare and initialise a vector of some size with some value then you can do that too
